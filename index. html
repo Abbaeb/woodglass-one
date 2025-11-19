@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <title>WoodGlass One | عینک چوبی</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>WOODGLASS ONE</h1>
+    <p>عینک چوبی حرفه‌ای | دست‌ساز و طبیعی</p>
+  </header>
+
+  <section class="intro">
+    <h2>به زودی...</h2>
+    <p>وب‌سایت رسمی برند WoodGlass One در حال ساخت است.</p>
+  </section>
+
+  <footer>
+    <p>© 2025 WoodGlass One</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
