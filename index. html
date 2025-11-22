@@ -5,7 +5,7 @@
   <title>WoodGlass One | عینک چوبی</title>
   <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body><img src="logo.png" class="logo" alt="woodglass one logo">
   <header>
     <h1>WOODGLASS ONE</h1>
     <p>عینک چوبی حرفه‌ای | دست‌ساز و طبیعی</p>
